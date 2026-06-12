@@ -1,6 +1,9 @@
+The dataset used in this project is available upon request. Please feel free to contact me if you would like access to it.
 # Automatic Detection of Patient-Ventilator Asynchronies
 
+
 This project was developed as my Graduation Project (PFE) for the Bachelor's degree in Biomedical Instrumentation and Maintenance at the Institut Supérieur des Sciences de la Santé (ISSS), Settat.
+
 
 ## 📝 Project Overview
 The main objective of this work is to provide a Clinical Decision Support System (CDSS) for intensive care. The model is designed to automatically identify and classify patient-ventilator asynchronies (PVAs) based on real-time analysis of airway pressure and flow waveforms.
