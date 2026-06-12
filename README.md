@@ -20,7 +20,7 @@ The data pipeline and model architecture include:
 
 ## 📁 Repository Structure
 ```bash
-├── docs/                 # Graduation Project Report (PDF) and Presentation (PPT)
+├── Project_Report               # Graduation Project Report (PDF) and Presentation (PPT)
 ├── main.py                 # Python source code (main.py, preprocessing scripts)
 ├── README.md             # Project documentation
 └── .gitignore            # Git ignore file
